@@ -5,9 +5,9 @@ import {CgFileDocument} from "react-icons/cg";
 
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
-    TindogDesc : "Created a responsive front-end website for the Little Lemon restaurant project.This project highlights skills in building engaging user interfaces and implementing restaurant features.",
-    TindogGithub : "https://github.com/priya123-jpg/Meta-Front-End-Developer-Capstone",
-    TindogWebsite : "https://priya123-jpg.github.io/Meta-Front-End-Developer-Capstone/",
+    LittleLemonRestaurant: "Created a responsive front-end website for the Little Lemon restaurant project.This project highlights skills in building engaging user interfaces and implementing restaurant features.",
+    LittleLemonRestaurantGithub : "https://github.com/priya123-jpg/Meta-Front-End-Developer-Capstone",
+    LittleLemonRestaurantWebsite : "https://priya123-jpg.github.io/Meta-Front-End-Developer-Capstone/",
 
   }
 

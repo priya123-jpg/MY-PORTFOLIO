@@ -1,13 +1,13 @@
 import React from 'react';
 import ProjectBox from './ProjectBox';
-import TindogImage from '../images/TindogImage.png';
+import LittleLemonRestaurant from '../images/LittleLemonRestaurant.png';
 
 const Projects = () => {
   return (
     <div>
-      <h1 className='projectHeading'>My <b>Project</b></h1>
+      <h1 className='projectHeading'>My<b> Project</b></h1>
       <div className='project'>
-        <ProjectBox projectPhoto={TindogImage} projectName="Tindog" />
+        <ProjectBox projectPhoto={LittleLemonRestaurant} projectName="LittleLemonRestaurant" />
       </div>
 
     </div>
